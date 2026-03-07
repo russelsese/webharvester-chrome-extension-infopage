@@ -2,6 +2,8 @@
 
 This folder contains the static public info pages for the **WebHarvester** Chrome extension.
 
+Live Site: https://russelsese.github.io/webharvester-chrome-extension-infopage/
+
 ## What this project includes
 
 - `index.html` - Main landing/info page for the extension
